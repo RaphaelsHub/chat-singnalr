@@ -1,9 +1,11 @@
 using System.Security.Claims;
 using ChatSinglar.Data;
+using ChatSinglar.Hubs;
 using ChatSinglar.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.SignalR;
 using Microsoft.EntityFrameworkCore;
 
 namespace ChatSinglar.Controllers;
@@ -15,11 +17,13 @@ public class ChatController : ControllerBase
 {
     private readonly AppDbContext _db;
     private readonly UserManager<IdentityUser> _userManager;
+    private readonly IHubContext<ChatHub> _hub;
 
-    public ChatController(AppDbContext db, UserManager<IdentityUser> userManager)
+    public ChatController(AppDbContext db, UserManager<IdentityUser> userManager, IHubContext<ChatHub> hub)
     {
         _db = db;
         _userManager = userManager;
+        _hub = hub;
     }
 
     [HttpPost("start")]
@@ -51,13 +55,21 @@ public class ChatController : ControllerBase
         var senderIdString = User.FindFirstValue(ClaimTypes.NameIdentifier);
         var senderId = int.TryParse(senderIdString, out var parsedSenderId) ? parsedSenderId : 0;
 
-        if (senderId == 0) return Unauthorized();
+        if (senderId == 0 || string.IsNullOrEmpty(senderIdString)) return Unauthorized();
 
         var message = new Message { ChatId = chatId, SenderId = senderId, EncryptedText = encryptedText, Timestamp = DateTime.UtcNow };
+
+        var sender = await _userManager.FindByIdAsync(senderIdString);
+
+        if (sender == null) return Unauthorized();
 
         _db.Messages.Add(message);
 
         await _db.SaveChangesAsync();
+
+        await _hub.Clients.Group(chatId.ToString())
+       .SendAsync("ReceiveMessage", sender.UserName, encryptedText, message.Timestamp.ToString("o"));
+
         return Ok();
     }
 
