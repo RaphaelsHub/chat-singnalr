@@ -1,0 +1,96 @@
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\appsettings.Development.json
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\appsettings.json
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Chat Singlar.staticwebassets.runtime.json
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Chat Singlar.staticwebassets.endpoints.json
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Chat Singlar.exe
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Chat Singlar.deps.json
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Chat Singlar.runtimeconfig.json
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Chat Singlar.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Chat Singlar.pdb
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\Chat Singlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\Chat Singlar.AssemblyInfoInputs.cache
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\Chat Singlar.AssemblyInfo.cs
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\Chat Singlar.csproj.CoreCompileInputs.cache
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\Chat Singlar.MvcApplicationPartsAssemblyInfo.cache
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\Chat Singlar.RazorAssemblyInfo.cache
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\Chat Singlar.RazorAssemblyInfo.cs
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\scopedcss\bundle\Chat Singlar.styles.css
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\scopedcss\projectbundle\Chat Singlar.bundle.scp.css
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\asap72z6jq-b9sayid5wm.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\vk8lcdferj-61n19gt1b8.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\ripts05n72-xtxxf3hu2r.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\j66u6j2u34-bqjiyaj88i.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\o4l0fxsqcf-c2jlpeoesf.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\kweo2dj060-erw9l3u2r3.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\qtteftfr1q-aexeepp0ev.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\qze88ff04o-d7shbmvgxk.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\xmk3zmk6ob-ausgxo2sd3.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\epmsckv52o-k8d9w2qqmf.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\kzsb0zilqv-cosvhxvwiu.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\qcs9hg75fs-ub07r2b239.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\26gl08dzzb-fvhpjtyr6v.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\3aeiqyawli-b7pk76d08c.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\f43k6oegp7-fsbi9cje9m.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\45cnoai8x9-rzd6atqjts.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\lnm7nn0agn-ee0r1s7dh0.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\ch69mhjdr8-dxx9fxp4il.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\929vh6iv9k-jd9uben2k1.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\jknw6cr80i-khv3u5hwcm.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\fnraask0xt-r4e9w2rdcm.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\h4bjhw32wh-lcd1t2u6c8.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\u6k3wxmxbp-c2oey78nd0.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\q9efm2k7h7-tdbxkamptv.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\umelvrgsrx-j5mq2jizvt.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\jjwkrz7a03-06098lyss8.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\46ymfxji1j-nvvlpmu67g.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\lsix50eax6-s35ty4nyc5.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\p8jw4e5u3s-pj5nd1wqec.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\rkrb33v2iu-46ein0sx1k.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\o3lzff23gl-v0zj4ognzu.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\ols3op02sz-37tfw0ft22.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\9s7bvcc26v-hrwsygsryq.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\y7yy97v4kx-pk9g2wxc8p.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\8qljt8gx7f-ft3s53vfgj.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\yryau3tqyb-6cfz1n2cew.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\x06y3k094q-6pdc2jztkx.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\27f7i4c7dd-493y06b0oq.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\9h1f1drxqo-iovd86k7lj.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\jcv15j1urs-vr1egmr9el.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\im4byqyvww-kbrnm935zg.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\anyf8inf9z-jj8uyg4cgr.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\j2wbmjdla1-y7v9cxd14o.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\taxdrhd6dr-notf2xhcfb.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\iovkb8h3nx-h1s4sie4z3.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\y37ri77reb-63fj8s7r0e.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\bxl15lataq-0j3bgjxly4.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\2fggsaicyb-47otxtyo56.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\fdum9i4m7h-4v8eqarkd7.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\9r6tcd36pp-356vix0kms.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\wrswe1wt8t-83jwlth58m.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\8mizet6hu2-mrlpezrjn3.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\w9qi9041qg-lzl9nlhx6b.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\w0yod7g4k3-ag7o75518u.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\m8fto5gzig-x0q3zqp4vz.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\z9yibagml8-0i3buxo5is.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\ub3us8o8fr-o1o13a6vjx.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\hc1lb1a4t1-ttgo8qnofa.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\3kbu8un73t-2z0ns9nrw6.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\6joxlng46m-muycvpuwrr.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\ydy9tauytj-87fc7y1x7t.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\5fta2ftn0x-mlv21k5csn.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\56tyocbldx-mvubarlhsj.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\vpnh52pjqj-mvubarlhsj.gz
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\staticwebassets.build.json
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\staticwebassets.development.json
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\Chat Singlar.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\refint\Chat Singlar.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\Chat Singlar.pdb
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\Chat Singlar.genruntimeconfig.cache
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\ref\Chat Singlar.dll
