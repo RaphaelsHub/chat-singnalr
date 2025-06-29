@@ -8,16 +8,10 @@ namespace ChatSinglar.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-public class AuthController : ControllerBase
+public class AuthController(IJwtService jwtService, IAuthService authService) : ControllerBase
 {
-    private readonly IAuthService _authService;
-    private readonly IJwtService _jwtService;
-
-    public AuthController(IJwtService jwtService, IAuthService authService)
-    {
-        _jwtService = jwtService;
-        _authService = authService;
-    }
+    private readonly IAuthService _authService = authService;
+    private readonly IJwtService _jwtService = jwtService;
 
     [HttpPost("register")]
     public async Task<IActionResult> Register(RegisterDto model)
