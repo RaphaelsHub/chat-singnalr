@@ -1,8 +1,26 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    Layout = null;
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div id="authSection">
+    <h2>Login or Register</h2>
+    <input id="userName" placeholder="Username" />
+    <input id="password" placeholder="Password" type="password" />
+    <button onclick="loginOrRegister(false)">Login</button>
+    <button onclick="loginOrRegister(true)">Register</button>
 </div>
+
+<div id="chatSection" style="display:none;">
+    <h2>Private Chat System</h2>
+
+    <input type="text" id="searchInput" placeholder="Search users..." oninput="searchUsers()" />
+    <div id="searchResults" style="margin-bottom:20px;"></div>
+
+    <div id="messages" style="border:1px solid #ccc; height:300px; overflow-y:auto; padding:10px; margin-bottom:10px;"></div>
+
+    <input type="text" id="messageInput" placeholder="Type encrypted message..." style="width:80%;" />
+    <button onclick="sendMessage()">Send</button>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@(Html.Raw("@"))microsoft/signalr@7.0.5/dist/browser/signalr.min.js"></script>
+<script src="/js/chat.js"></script>

@@ -18,9 +18,7 @@ C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\Chat Singlar.RazorAssem
 C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
-C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\scopedcss\bundle\Chat Singlar.styles.css
-C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\scopedcss\projectbundle\Chat Singlar.bundle.scp.css
 C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\asap72z6jq-b9sayid5wm.gz
 C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\vk8lcdferj-61n19gt1b8.gz
 C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\ripts05n72-xtxxf3hu2r.gz
@@ -83,8 +81,6 @@ C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\3kbu8un73t-2
 C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\6joxlng46m-muycvpuwrr.gz
 C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\ydy9tauytj-87fc7y1x7t.gz
 C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\5fta2ftn0x-mlv21k5csn.gz
-C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\56tyocbldx-mvubarlhsj.gz
-C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\vpnh52pjqj-mvubarlhsj.gz
 C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\staticwebassets.build.json
 C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\staticwebassets.development.json
@@ -94,3 +90,35 @@ C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\refint\Chat Singlar.dll
 C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\Chat Singlar.pdb
 C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\Chat Singlar.genruntimeconfig.cache
 C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\ref\Chat Singlar.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\Chat Singlar.csproj.AssemblyReference.cache
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\Chat Singlar.sourcelink.json
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\Chat Sin.B5CF9BCB.Up2Date
+C:\GitHub\4. Chat SingnalR\Chat Singlar\obj\Debug\net9.0\compressed\ufifukjoc8-2t0al9w24z.gz
